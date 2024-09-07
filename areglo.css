@@ -1,0 +1,24 @@
+.btn-start{
+    border-radius: 20px;
+    border: none;
+    padding: 25px;
+    color: blue;
+}
+.color-celeste-left{
+    color: red;
+    font-size: 10px;
+}
+.color-violeta-right{
+    color: yellow;
+    font-size: 10px;
+}
+
+.color-naranja-left{
+    color: orange;
+    font-size: 10px;
+}
+
+.color-verde-right{
+    color: green;
+    font-size: 10px;
+}
